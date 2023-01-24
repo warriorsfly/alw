@@ -1,0 +1,6 @@
+[submodule "utils/alw-error"]
+	path = utils/alw-error
+	url = https://github.com/warriorsfly/alw-error.git
+[submodule "utils/alw-database"]
+	path = utils/alw-database
+	url = https://github.com/warriorsfly/alw-database.git
